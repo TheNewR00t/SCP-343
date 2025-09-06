@@ -6,8 +6,6 @@ namespace SCP343
 {
     public class Config
     {
-        [Description("Defines the scale of the player (X, Y, Z).")]
-        public Vector3 PlayerScale { get; set; } = new Vector3(1, 1, 1);
 
         [Description("Percentage to spawn.")]
         public float Porcentaje { get; set; } = 20f;
