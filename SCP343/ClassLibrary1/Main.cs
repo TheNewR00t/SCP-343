@@ -19,15 +19,21 @@ namespace SCP343
 
         public static Main instance { get; set; }
 
+        public static handler Handler { get; set; }
+
         public override void Enable()
         {
             instance = this;
+            Handler = new handler();
             CustomRoleHandler.RegisterRoles();
+            LabApi.Events.Handlers.ServerEvents.RoundStarting += handler.OnRoundStaring;
         }
 
         public override void Disable()
         {
+            LabApi.Events.Handlers.ServerEvents.RoundStarting -= handler.OnRoundStaring;
             CustomRoleHandler.UnRegisterRoles();
+            Handler = null;
             instance = null;
         }
     }
