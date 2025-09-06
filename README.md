@@ -19,3 +19,5 @@ Teleport a random player - you can teleport a random player if you throw (or dro
 Kys - You can kill yourself if you throw (or drop) a flashlight
 
 MedKit - You can Make medkits if you pickup items
+
+God Mode - You are inmortal if you have this role
