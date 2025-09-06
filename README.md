@@ -6,7 +6,7 @@ You need this [CustomRolesCrimsonBreach](https://github.com/Crimson-Breach/Custo
 
 Teleport a random player - you can teleport a random player if you throw (or drop) a coin
 
-Kys - You can kill yourself if you throw (or drop) a flashlight
+Self-Elimination (Flashlight): Throw or drop a flashlight to eliminate yourself.
 
 MedKit - You can Make medkits if you pickup items
 
