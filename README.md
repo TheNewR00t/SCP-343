@@ -4,13 +4,13 @@ You need this [CustomRolesCrimsonBreach](https://github.com/Crimson-Breach/Custo
 
 # Habilities
 
-Teleport a random player - you can teleport a random player if you throw (or drop) a coin
+Teleport (Coin): Throw or drop a coin to teleport a random player.
 
 Self-Elimination (Flashlight): Throw or drop a flashlight to eliminate yourself.
 
-MedKit - You can Make medkits if you pickup items
+MedKit Creation: Pick up items to craft medkits.
 
-God Mode - You are inmortal if you have this role
+God Mode: While holding this role, you become immortal.
 
 # Config
 
