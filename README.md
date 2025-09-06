@@ -1,3 +1,17 @@
+# Dependencies
+
+You need this [CustomRolesCrimsonBreach](https://github.com/Crimson-Breach/CustomRoles/releases)
+
+# Habilities
+
+Teleport a random player - you can teleport a random player if you throw (or drop) a coin
+
+Kys - You can kill yourself if you throw (or drop) a flashlight
+
+MedKit - You can Make medkits if you pickup items
+
+God Mode - You are inmortal if you have this role
+
 # Config
 
 ```YML
@@ -11,13 +25,3 @@ no_players: No players alive right now
 # Enable or disable debug mode.
 debug: false
 ```
-
-# Habilities
-
-Teleport a random player - you can teleport a random player if you throw (or drop) a coin
-
-Kys - You can kill yourself if you throw (or drop) a flashlight
-
-MedKit - You can Make medkits if you pickup items
-
-God Mode - You are inmortal if you have this role
