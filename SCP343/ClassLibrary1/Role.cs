@@ -32,6 +32,7 @@ namespace SCP343
             $"{ItemType.Flashlight}",
             $"{ItemType.Coin}"
         };
+        public override SpawnProperties SpawnProperties { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public override void EventsCustom()
         {
